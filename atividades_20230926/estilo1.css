@@ -1,11 +1,7 @@
 body{
     background-color:rgb(236, 234, 234);
 }
-h1{
-    font-family: Arial, sans-serif;
-    color: darkslateblue;
-}
-h2{
+h1, h2{
     font-family: Arial, sans-serif;
     color: darkslateblue;
 }
@@ -19,23 +15,14 @@ h3{
     text-align: center;
     text-align: justify;
     margin: auto;
-
 }
-p{
+p, ul{
     font-family: Arial, sans-serif;
     color: rgb(88, 88, 88);
 
-}
-ul{
-    font-family: Arial, sans-serif;
-    color: rgb(88, 88, 88);
 }
 header{
     text-align: center;
-}
-.receita{
-    text-align: center;
-    align-items: center;
 }
 .texto{
     text-align: center;
